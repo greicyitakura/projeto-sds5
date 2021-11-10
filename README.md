@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-https://https://sds5-itakuradev.netlify.app
+https://sds5-itakuradev.netlify.app
 
 Ds Vendas é uma aplicação full stack web construída durante a 5ª edição da **Semana DevSuperior** (#sds5), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
